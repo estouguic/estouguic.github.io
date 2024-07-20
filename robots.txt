@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://estouguic.github.io/sitemap
+Sitemap: https://estouguic.github.io/app/sitemap
+Sitemap: https://estouguic.github.io/assets/sitemap
+Sitemap: https://estouguic.github.io/css/sitemap
+Sitemap: https://estouguic.github.io/includes/sitemap
+Sitemap: https://estouguic.github.io/item/sitemap
+Sitemap: https://estouguic.github.io/src/sitemap
